@@ -1,3 +1,3 @@
-y = 1
-if y == 1:
-    print("y is 1.")
+y = 10
+if y == 10:
+    print("y is 10.")
