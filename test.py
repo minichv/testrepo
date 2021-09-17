@@ -1,3 +1,3 @@
-x = 11
-if x == 11:
-    print("x is 11.")
+y = 1
+if y == 1:
+    print("y is 1.")
